@@ -1,0 +1,27 @@
+[
+  {
+    "class": "info",
+    "href": "#wedgemount",
+    "text": "Wedgemount"
+  },
+  {
+    "class": "rooms",
+    "href": "#brunswick",
+    "text": "Brunswick"
+  },  
+  {
+    "class": "dining",
+    "href": "#west-lion",
+    "text": "West lion"
+  },
+  {
+    "class": "events",
+    "href": "#buntzen-lake",
+    "text": "Buntzen lake"
+  },
+  {
+    "class": "attractions",
+    "href": "#garibaldi-lake",
+    "text": "Garibaldi Lake"
+  }
+]
